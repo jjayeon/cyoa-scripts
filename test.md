@@ -14,6 +14,6 @@ asdf
 
 asdfasdf
 
-## path 3 {#path-3}
+## You take path 3.
 
 asdfasdfasdf
