@@ -1,15 +1,16 @@
 # Start
 
 some text here
-[You take path 1.](#path-1)
-[path 2](#path-2)
-[path 3](#path-3)
+
+[You take path 1.](#path-1)  
+[You take path 2.]()  
+[path 3](#path-3)  
 
 ## path 1
 
 asdf
 
-## path 2 {#path-2}
+## You take path 2.
 
 asdfasdf
 
